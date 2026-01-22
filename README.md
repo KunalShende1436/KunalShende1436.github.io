@@ -84,7 +84,7 @@ goals.
 ## 📬 Contact
 
 -   Email: krunalshende1436@gmail.com\
--   GitHub: https://github.com/your-username
+-   GitHub: https://github.com/KunalShende1436
 
 ------------------------------------------------------------------------
 
