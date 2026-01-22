@@ -55,7 +55,7 @@ goals.
 
 1.  Clone this repository:
 
-        git clone https://github.com/your-username/portfolio-website.git
+        git clone https://github.com/KunalShende1436/KunalShende1436.github.io
 
 2.  Open `index.html` in your browser.\
 
